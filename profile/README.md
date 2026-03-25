@@ -15,4 +15,4 @@ func main() {
 
 ## Links
 
-🌐 [kira-lang.com](https://kira-lang.com) · 📖 Docs *(coming soon)*
+🌐 [kira.isunday.app](https://kira.isunday.app) · 📖 Docs *(coming soon)*
