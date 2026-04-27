@@ -15,4 +15,4 @@ function main() {
 
 ## Links
 
-🌐 [kira-doc.vercel.app](https://kira-doc.vercel.app) · 📖 Docs *(coming soon)*
+🌐 [kira-doc.vercel.app](https://kira-doc.vercel.app) · 📖 Docs *(coming ready)*
