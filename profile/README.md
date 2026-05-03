@@ -13,6 +13,12 @@ function main() {
 }
 ```
 
+## Official Website
+
+🌐 **[Kira Programming Language](https://kira.sunday-cloud.com/)**  
+The official website for Kira, including documentation, examples, packages, installation guides, and language syntax.
+
 ## Links
 
-🌐 [kira-doc.vercel.app](https://kira-doc.vercel.app) · 📖 Docs *(coming ready)*
+🌐 [kira-doc.vercel.app](https://kira-doc.vercel.app) · 📖 Docs
+
