@@ -1,9 +1,9 @@
-# **A dual-mode compiled programming language — written in Zig.**
+# **A dual-mode compiled programming language, written in Rust.**
 
 Functions run as **native machine code** (via LLVM) or **bytecode VM** in the same binary. You choose per function, or let the compiler decide.
 ```kira
 @Native
-function square(x: int) -> int {
+function square(x: int) -> Int {
     return x * x;
 }
 
